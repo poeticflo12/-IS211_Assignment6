@@ -1,4 +1,5 @@
 #python3
+
 class ConversionNotPossible(Exception):
     pass
 
